@@ -1,0 +1,58 @@
+body{
+        background-image: url('https://4kwallpapers.com/images/wallpapers/blue-mosque-sultan-3840x2160-10849.jpg');
+        background-attachment: fixed;
+        background-size: 100% 100%;
+      }
+      .subme{
+        background-color: #fbb129;
+        border: none;
+        width: fit-content;
+        margin-left: 38%;
+        margin-top: 20px;
+      }
+      .subme:hover{
+        background-color: black;
+        color: #fbb129;
+      }
+      .form1{
+        margin-top: 70px;
+        padding: 30px 50px;
+        background-color: rgb(255, 255, 255);
+        width: fit-content;
+        margin-inline: auto;
+        border-radius: 5px;
+      }
+      .log{
+        font-size: xx-large;
+        margin-inline: auto;
+        width: fit-content;
+        color: #fbb129;
+        font-weight: bold;
+      }
+      .register{
+        display: flex;
+        margin-top: 5px;
+      }
+      .register > p > span > a{
+        text-decoration: none;
+        color: #fbb129;
+        font-weight: bold;
+      }
+      .nav1:hover{
+        color: black;
+      }
+      .reg{
+        color: #fbb129;
+        font-weight: bold;
+      }
+      .form2{
+        background-color: rgba(255, 255, 255, 0.692);
+
+      }
+      .but2{
+        background-color: #fbb129;
+        border: none;
+        width: fit-content;
+        border-radius: 5px;
+        padding: 15px;
+      }
